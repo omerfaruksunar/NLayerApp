@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF74FD4A-1CAC-43ED-A1C7-11E79D8EA0F2}|NLayer.API\\NLayer.API.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF74FD4A-1CAC-43ED-A1C7-11E79D8EA0F2}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.service\\mapping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\mapping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.service\\nlayer.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\nlayer.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\Program.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\Program.cs",
+              "RelativeToolTip": "NLayer.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:16:30.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\Mapping\\MapProfile.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Mapping\\MapProfile.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\Mapping\\MapProfile.cs",
+              "RelativeToolTip": "NLayer.Service\\Mapping\\MapProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:14:13.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NLayer.Service",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
+              "RelativeDocumentMoniker": "NLayer.Service\\NLayer.Service.csproj",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
+              "RelativeToolTip": "NLayer.Service\\NLayer.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T15:13:53.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

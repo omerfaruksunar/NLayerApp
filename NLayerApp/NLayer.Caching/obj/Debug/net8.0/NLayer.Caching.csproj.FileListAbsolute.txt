@@ -1,0 +1,11 @@
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Caching.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Caching.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\refint\NLayer.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\ref\NLayer.Caching.dll

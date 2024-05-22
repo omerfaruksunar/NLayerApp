@@ -1,0 +1,17 @@
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\bin\Debug\net8.0\NLayer.Service.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\bin\Debug\net8.0\NLayer.Service.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\bin\Debug\net8.0\NLayer.Service.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\bin\Debug\net8.0\NLayer.Repository.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\bin\Debug\net8.0\NLayer.Repository.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.Service.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.S.636D47A2.Up2Date
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.Service.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\refint\NLayer.Service.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\NLayer.Service.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Service\obj\Debug\net8.0\ref\NLayer.Service.dll
