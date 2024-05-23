@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.core\\dtos\\nocontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\nocontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.core\\dtos\\customresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\customresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF74FD4A-1CAC-43ED-A1C7-11E79D8EA0F2}|NLayer.API\\NLayer.API.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF74FD4A-1CAC-43ED-A1C7-11E79D8EA0F2}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NoContentDto.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\DTOs\\NoContentDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\NoContentDto.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\DTOs\\NoContentDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\NoContentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:00:47.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomResponseDto.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:38:36.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\Program.cs",
               "RelativeDocumentMoniker": "NLayer.API\\Program.cs",
@@ -39,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MapProfile.cs",
               "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\Mapping\\MapProfile.cs",
               "RelativeDocumentMoniker": "NLayer.Service\\Mapping\\MapProfile.cs",
@@ -47,33 +93,19 @@
               "RelativeToolTip": "NLayer.Service\\Mapping\\MapProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:14:13.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:14:13.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NLayer.Service",
+              "DocumentIndex": 4,
+              "Title": "NLayer.Service.csproj",
               "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
               "RelativeDocumentMoniker": "NLayer.Service\\NLayer.Service.csproj",
               "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
               "RelativeToolTip": "NLayer.Service\\NLayer.Service.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-22T15:13:53.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-05-22T15:13:53.659Z"
             }
           ]
         }

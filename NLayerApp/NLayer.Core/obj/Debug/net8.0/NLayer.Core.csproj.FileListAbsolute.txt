@@ -9,3 +9,4 @@ C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Co
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\refint\NLayer.Core.dll
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.pdb
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\ref\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.sourcelink.json

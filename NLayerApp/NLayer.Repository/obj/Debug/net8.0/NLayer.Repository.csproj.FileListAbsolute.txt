@@ -15,3 +15,4 @@ C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLa
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net8.0\ref\NLayer.Repository.dll
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.runtimeconfig.json
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.genruntimeconfig.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.sourcelink.json
