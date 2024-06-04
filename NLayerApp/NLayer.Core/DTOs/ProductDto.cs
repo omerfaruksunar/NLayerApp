@@ -1,4 +1,6 @@
-﻿namespace NLayer.Core.DTOs;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace NLayer.Core.DTOs;
 
 public class ProductDto : BaseDto
 {

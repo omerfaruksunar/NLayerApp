@@ -143,3 +143,10 @@ C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\zh-Hant\Mi
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\obj\Debug\net8.0\NLayer.API.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\Autofac.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\NLayer.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\NLayer.Caching.pdb

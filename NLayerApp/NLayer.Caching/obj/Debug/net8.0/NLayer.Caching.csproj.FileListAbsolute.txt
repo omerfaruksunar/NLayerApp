@@ -9,3 +9,12 @@ C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\refint\NLayer.Caching.dll
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.pdb
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\ref\NLayer.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Repository.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Service.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Service.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\bin\Debug\net8.0\NLayer.Repository.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.csproj.AssemblyReference.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.Caching.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Caching\obj\Debug\net8.0\NLayer.C.BF8D253B.Up2Date
