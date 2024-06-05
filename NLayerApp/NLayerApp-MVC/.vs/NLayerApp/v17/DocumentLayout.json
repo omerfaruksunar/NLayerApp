@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "NLayer.Service\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:44:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NLayer.Web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T06:41:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NLayer.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NLayer.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:36:53.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
