@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4CgNp1axF4kOSzuzvKPyc3lMn+EZWXKCOO1tVPz4hMiP5aPY7ow/konNW0QPsEinS7YDD5YTk93Au+xTRd3ccQ==",
+  "dgSpecHash": "5OriK9DvvXmLobtRLuHDyjljXM5LwHIKgDGEWSZjGxi+Pd28nkdEoKRoOvdJjrPihd22GTn8mrod3CRpKsGz3A==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+  "projectFilePath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Repository\\NLayer.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

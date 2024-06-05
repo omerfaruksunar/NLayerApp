@@ -150,3 +150,14 @@ C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\FluentVali
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\NLayer.Caching.dll
 C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.API\bin\Debug\net8.0\NLayer.Caching.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.csproj.AssemblyReference.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\refint\NLayer.API.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.API\obj\Debug\net8.0\NLayer.API.pdb

@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\",
+  "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E56A6CE-CB3B-4FBC-A90D-0A173571E69C}|NLayer.Repository\\NLayer.Repository.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E56A6CE-CB3B-4FBC-A90D-0A173571E69C}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\notfoundfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\notfoundfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E56A6CE-CB3B-4FBC-A90D-0A173571E69C}|NLayer.Repository\\NLayer.Repository.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.repository\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E56A6CE-CB3B-4FBC-A90D-0A173571E69C}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.core\\dtos\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc\\nlayer.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "NLayer.Service\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\Services\\ProductService.cs",
-              "RelativeToolTip": "NLayer.Service\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:44:36.827Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -51,28 +70,145 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Repository\\AppDbContext.cs",
+              "RelativeToolTip": "NLayer.Repository\\AppDbContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwDAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:51:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundFilter.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\NotFoundFilter.cs",
+              "RelativeDocumentMoniker": "NLayer.Web\\NotFoundFilter.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\NotFoundFilter.cs",
+              "RelativeToolTip": "NLayer.Web\\NotFoundFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:13:52.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "NLayer.Web\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\Products\\Update.cshtml",
+              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Products\\Update.cshtml",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\Products\\Update.cshtml",
+              "RelativeToolTip": "NLayer.Web\\Views\\Products\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCAAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T06:41:49.182Z",
+              "WhenOpened": "2024-06-05T11:27:08.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "NLayer.Web\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Web\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "NLayer.Web\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NLayer.Web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T11:31:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NLayer.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NLayer.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T13:05:23.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:36:53.949Z",
+              "WhenOpened": "2024-06-05T13:58:20.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NLayer.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NLayer.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwDEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:12:02.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Core\\DTOs\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Core\\DTOs\\ErrorViewModel.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:53:36.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Program.cs",
+              "RelativeDocumentMoniker": "NLayer.Web\\Program.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Program.cs",
+              "RelativeToolTip": "NLayer.Web\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:19:29.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NLayer.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NLayer.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:56:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "NLayer.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T12:54:42.581Z",
               "EditorCaption": ""
             }
           ]

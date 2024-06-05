@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\",
+  "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp-api\\nlayer.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-api\\nlayer.service\\services\\productservicewithnocaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\productservicewithnocaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp-api\\nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-api\\nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp-api\\nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-api\\nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -39,12 +39,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Service\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "NLayer.Service\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Service\\Services\\ProductService.cs",
-              "RelativeToolTip": "NLayer.Service\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABZAAAA",
+              "Title": "ProductServiceWithNoCaching.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
+              "RelativeToolTip": "NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T06:44:36.827Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Web\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "NLayer.Web\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Web\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "NLayer.Web\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Web\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "NLayer.Web\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Web\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "NLayer.Web\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

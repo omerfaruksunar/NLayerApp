@@ -11,12 +11,12 @@ public class CustomResponseDto<T>
 
     public static CustomResponseDto<T> Success(int statusCode, T data)
     {
-        return new CustomResponseDto<T>{Data = data, StatusCode = statusCode, Errors = null};
+        return new CustomResponseDto<T> { Data = data, StatusCode = statusCode, Errors = null };
     }
 
     public static CustomResponseDto<T> Success(int statusCode)
     {
-        return new CustomResponseDto<T> {StatusCode = statusCode};
+        return new CustomResponseDto<T> { StatusCode = statusCode };
     }
 
     public static CustomResponseDto<T> Fail(int statusCode, List<string> errors)

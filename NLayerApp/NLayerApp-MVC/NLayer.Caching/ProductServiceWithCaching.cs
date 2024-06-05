@@ -27,7 +27,7 @@ public class ProductServiceWithCaching : IProductService
         _mapper = mapper;
 
         //memory'de yer kaplamamasi icin _ koyduk.
-        if(!_memoryCache.TryGetValue(CacheProductKey, out _))
+        if (!_memoryCache.TryGetValue(CacheProductKey, out _))
         {
             _memoryCache.Set(CacheProductKey, _repository.GetProductsWithCategory().Result);
         }
@@ -71,12 +71,12 @@ public class ProductServiceWithCaching : IProductService
         return Task.FromResult(product);
     }
 
-    public Task<CustomResponseDto<List<ProductWithCategoryDto>>> GetProductsWithCategory()
+    public Task<List<ProductWithCategoryDto>> GetProductsWithCategory()
     {
         var products = _memoryCache.Get<IEnumerable<Product>>(CacheProductKey);
-        var productsWithCategoryDto=_mapper.Map<List<ProductWithCategoryDto>>(products);
+        var productsWithCategoryDto = _mapper.Map<List<ProductWithCategoryDto>>(products);
 
-        return Task.FromResult(CustomResponseDto<List<ProductWithCategoryDto>>.Success(200, productsWithCategoryDto));
+        return Task.FromResult(productsWithCategoryDto);
     }
 
     public async Task RemoveAsync(Product entity)

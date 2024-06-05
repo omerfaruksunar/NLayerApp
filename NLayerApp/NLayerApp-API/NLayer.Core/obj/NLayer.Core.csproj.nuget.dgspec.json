@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj": {}
+    "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj",
+        "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Core\\NLayer.Core.csproj",
         "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp-API\\NLayer.Core\\obj\\",
+        "outputPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-API\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"

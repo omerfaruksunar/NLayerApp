@@ -26,7 +26,7 @@ public class Service<T> : IService<T> where T : class
         return entity;
     }
 
-    public async Task <IEnumerable<T>> AddRangeAsync(IEnumerable<T> entities)
+    public async Task<IEnumerable<T>> AddRangeAsync(IEnumerable<T> entities)
     {
         await _repository.AddRangeAsync(entities);
         await _unitOfWork.CommitAsync();
@@ -46,7 +46,7 @@ public class Service<T> : IService<T> where T : class
     public async Task<T> GetByIdAsync(int id)
     {
         var hasProduct = await _repository.GetByIdAsync(id);
-        if(hasProduct == null)
+        if (hasProduct == null)
         {
             throw new NotFoundException($"{typeof(T).Name}({id}) not found");
         }

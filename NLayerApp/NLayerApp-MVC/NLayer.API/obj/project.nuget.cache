@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "br+zRnZ59dKFpwDSJaLkhvIaW2Kfy7rBaPNtCJr9TKKgvehuSnZbDWxH589n41a/QE2iJXsab3tQ8mtBF77Ulw==",
+  "dgSpecHash": "0NTON6ZWtHsR472anZtVRvKqIB68BjnBBM6JdISTXoernd0U/Yrli3mxKAt8SACjNG/Z5czq+lSJ7jlLMyaJAQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+  "projectFilePath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

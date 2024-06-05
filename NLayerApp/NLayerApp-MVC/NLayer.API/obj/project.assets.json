@@ -4806,11 +4806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+      "projectUniqueName": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.API\\NLayer.API.csproj",
       "projectName": "NLayer.API",
-      "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+      "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.API\\NLayer.API.csproj",
       "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\obj\\",
+      "outputPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -4833,8 +4833,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {
-              "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj"
+            "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Caching\\NLayer.Caching.csproj": {
+              "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Caching\\NLayer.Caching.csproj"
             }
           }
         }

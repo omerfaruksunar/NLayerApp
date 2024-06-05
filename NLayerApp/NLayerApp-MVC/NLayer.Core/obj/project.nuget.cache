@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lAR7o/9aysWkae9ydGpnxI+sZ8fTaaMYoOYX0L5afriWYWu7ZvGQ1KvnBclgRAn5Pi04avHqiR0nQHlmVc3f0g==",
+  "dgSpecHash": "eNXXULyhnu1V9q0vdbcL0uAYMileAuJlwflDukO7/jXxpjc64DWWD0HLCJF6aL/ZD5trYP3eN4ATlOiBZoDoAw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+  "projectFilePath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Core\\NLayer.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

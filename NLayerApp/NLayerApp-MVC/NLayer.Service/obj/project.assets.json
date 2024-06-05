@@ -2959,11 +2959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
+      "projectUniqueName": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Service\\NLayer.Service.csproj",
       "projectName": "NLayer.Service",
-      "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
+      "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Service\\NLayer.Service.csproj",
       "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Service\\obj\\",
+      "outputPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -2986,8 +2986,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj": {
-              "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj"
+            "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Repository\\NLayer.Repository.csproj": {
+              "projectPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC\\NLayer.Repository\\NLayer.Repository.csproj"
             }
           }
         }
