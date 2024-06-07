@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.core\\services\\iproductservicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\services\\iproductservicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.core\\services\\iservicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\services\\iservicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.web\\services\\categoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{026EE128-031C-460E-B94D-79E6EB2196A1}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\services\\categoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.core\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035A838C-438C-424D-A443-0F3DCBF88E10}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.service\\services\\productservicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\productservicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF74FD4A-1CAC-43ED-A1C7-11E79D8EA0F2}|NLayer.API\\NLayer.API.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.api\\modules\\reposervicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF74FD4A-1CAC-43ED-A1C7-11E79D8EA0F2}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\modules\\reposervicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|c:\\projects\\aspnet-core-web-api\\nlayerapp\\nlayerapp-mvc - api\\nlayer.service\\services\\servicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5821D5-5291-4499-8EB2-C76C81E0C82B}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\servicewithdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Core\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Core\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:05:01.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceWithDto.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Core\\Services\\IServiceWithDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Services\\IServiceWithDto.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Core\\Services\\IServiceWithDto.cs",
+              "RelativeToolTip": "NLayer.Core\\Services\\IServiceWithDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:34:22.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductServiceWithDto.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Core\\Services\\IProductServiceWithDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Services\\IProductServiceWithDto.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Core\\Services\\IProductServiceWithDto.cs",
+              "RelativeToolTip": "NLayer.Core\\Services\\IProductServiceWithDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:17.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServiceWithDto.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Service\\Services\\ProductServiceWithDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Services\\ProductServiceWithDto.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Service\\Services\\ProductServiceWithDto.cs",
+              "RelativeToolTip": "NLayer.Service\\Services\\ProductServiceWithDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:00:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepoServiceModule.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.API\\Modules\\RepoServiceModule.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Modules\\RepoServiceModule.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.API\\Modules\\RepoServiceModule.cs",
+              "RelativeToolTip": "NLayer.API\\Modules\\RepoServiceModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:22:02.666Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -38,41 +115,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Web\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Web\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "NLayer.Web\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T12:59:53.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Web\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "NLayer.Web\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Web\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "NLayer.Web\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAwDwAAAA5AAAA",
+              "DocumentIndex": 5,
+              "Title": "ServiceWithDto.cs",
+              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Service\\Services\\ServiceWithDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Services\\ServiceWithDto.cs",
+              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Service\\Services\\ServiceWithDto.cs",
+              "RelativeToolTip": "NLayer.Service\\Services\\ServiceWithDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T12:49:43.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryApiService.cs",
-              "DocumentMoniker": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Web\\Services\\CategoryApiService.cs",
-              "RelativeDocumentMoniker": "NLayer.Web\\Services\\CategoryApiService.cs",
-              "ToolTip": "C:\\Projects\\AspNet-Core-Web-API\\NLayerApp\\NLayerApp-MVC - API\\NLayer.Web\\Services\\CategoryApiService.cs",
-              "RelativeToolTip": "NLayer.Web\\Services\\CategoryApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T12:46:17.278Z",
+              "WhenOpened": "2024-06-07T13:44:58.89Z",
               "EditorCaption": ""
             }
           ]
