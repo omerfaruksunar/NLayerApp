@@ -1,0 +1,36 @@
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\bin\Debug\net8.0\NLayer.Core.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\refint\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\ref\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\bin\Debug\net8.0\NLayer.Core.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\NLayer.Core.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\refint\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Core\obj\Debug\net8.0\ref\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\bin\Debug\net8.0\NLayer.Core.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\NLayer.Core.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\refint\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Core\obj\Debug\net8.0\ref\NLayer.Core.dll

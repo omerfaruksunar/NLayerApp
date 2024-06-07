@@ -1,0 +1,1402 @@
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\appsettings.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Web.staticwebassets.runtime.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Web.exe
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Web.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Web.runtimeconfig.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Web.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.RazorAssemblyInfo.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.RazorAssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.NLayer.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\scopedcss\bundle\NLayer.Web.styles.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\scopedcss\projectbundle\NLayer.Web.bundle.scp.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\refint\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.genruntimeconfig.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\ref\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.AssemblyReference.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\FluentValidation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Repository.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Service.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Service.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\bin\Debug\net8.0\NLayer.Repository.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.Up2Date
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.AssemblyReference.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.RazorAssemblyInfo.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.RazorAssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\refint\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\appsettings.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Web.staticwebassets.runtime.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Web.exe
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Web.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Web.runtimeconfig.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Web.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\mscorlib.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\netstandard.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.AppContext.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Buffers.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Console.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Data.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Data.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Drawing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Globalization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Memory.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Http.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Mail.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Ping.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Quic.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Requests.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Security.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Numerics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ObjectModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Claims.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Principal.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Transactions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.ValueTuple.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Windows.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Autofac.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\FluentValidation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Repository.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Service.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Service.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\bin\Debug\net8.0\NLayer.Repository.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.NLayer.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\scopedcss\bundle\NLayer.Web.styles.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\scopedcss\projectbundle\NLayer.Web.bundle.scp.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.Up2Date
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\NLayer.Web.genruntimeconfig.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC\NLayer.Web\obj\Debug\net8.0\ref\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\appsettings.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Web.staticwebassets.runtime.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Web.exe
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Web.deps.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Web.runtimeconfig.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Web.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\mscorlib.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\netstandard.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.AppContext.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Buffers.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Console.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Data.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Data.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Drawing.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Globalization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Memory.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Http.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Mail.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Ping.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Quic.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Requests.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Security.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Numerics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ObjectModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Claims.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Principal.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Transactions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.ValueTuple.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Windows.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Autofac.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\FluentValidation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Core.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Repository.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Service.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Service.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\bin\Debug\net8.0\NLayer.Repository.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.AssemblyReference.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.AssemblyInfoInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.AssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.CoreCompileInputs.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.RazorAssemblyInfo.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.RazorAssemblyInfo.cs
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.sourcelink.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.NLayer.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NLayer.Web.props
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\scopedcss\bundle\NLayer.Web.styles.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\scopedcss\projectbundle\NLayer.Web.bundle.scp.css
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.csproj.Up2Date
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\refint\NLayer.Web.dll
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.pdb
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\NLayer.Web.genruntimeconfig.cache
+C:\Projects\AspNet-Core-Web-API\NLayerApp\NLayerApp-MVC - API\NLayer.Web\obj\Debug\net8.0\ref\NLayer.Web.dll
