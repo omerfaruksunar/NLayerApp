@@ -53,7 +53,7 @@ public class ServiceWithDto<TEntity, Dto> : IServiceWithDto<TEntity, Dto> where 
 
 	public async Task<CustomResponseDto<IEnumerable<Dto>>> GetAllAsync()
 	{
-		var entities = _repository.GetAll().ToListAsync();
+		var entities =await _repository.GetAll().ToListAsync();
 
 		var dtos = _mapper.Map<IEnumerable<Dto>>(entities);
 
